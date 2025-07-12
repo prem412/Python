@@ -45,3 +45,13 @@ print(m < 5 or n > 15)   # at least one condition is true
 print(not (m == n))       # m is not equal to n   
 print(not (m == 10 ))      # m is not equal to 10
 
+
+
+#Expression operators
+c = 5
+v = 10
+b = 15
+print(a + b * c)  
+print((a + b) * c)
+print(a * b + c)
+print(a + b - c)  
