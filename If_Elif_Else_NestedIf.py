@@ -37,3 +37,15 @@ if age >= 18:
         print("You cannot vote.")
 else: 
     print("You cannot vote.")
+
+
+
+
+
+
+#Even odd check
+NUM = int(input("Enter a number: "))    
+if NUM %2 == 0:
+    print("Even")
+else:
+    print("Odd")
