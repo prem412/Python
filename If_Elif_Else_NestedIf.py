@@ -41,8 +41,6 @@ else:
 
 
 
-
-
 #Even odd check
 NUM = int(input("Enter a number: "))    
 if NUM %2 == 0:
